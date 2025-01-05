@@ -6,16 +6,16 @@ This project analyzes and predicts flight fare with the aim of providing actiona
   By understanding trends in airline preferences and destinations, businesses can refine their strategies to stay competitive.
   This project demonstrates how robust data analysis and machine learning can transform raw data into valuable business insights.
 # *Key Features*
-# -> Comprehensive Data Preprocessing:
+-> Comprehensive Data Preprocessing:
   Handling missing values effectively.
   Transforming object data into appropriate datetime formats.
   Engineering new features to enhance model performance.
-# -> Advanced Visualization Techniques:
+-> Advanced Visualization Techniques:
   Bar graphs, scatter plots, and boxplots to uncover trends and outliers in the data.
-# -> Categorical Encoding:
+-> Categorical Encoding:
   Encoding key features like source, destination, airline, and total stops to prepare data for machine learning models.
-# -> Model Training and Evaluation:
+-> Model Training and Evaluation:
   Using feature engineering to define critical predictors and target variables.
   Training and evaluating various machine learning models to identify the best-performing solution.
-# -> Model Deployment:
+-> Model Deployment:
   Saving the trained model for deployment in real-world scenarios.
